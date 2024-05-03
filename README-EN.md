@@ -4,4 +4,4 @@
 
 ![](https://github.com/Colin130716/VSCode-Dark-Insider/blob/Master/logo.png)
 
-### 这是一个基于Default Dark Modern修改的主题，目前还在测试，如果有问题请随时向我提交issue，我会尽快修复。
+### This is a theme modified based on Default Dark Modern and is currently under testing. If there are any issues, please feel free to submit an issue to me and I will fix it as soon as possible.

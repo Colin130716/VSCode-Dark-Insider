@@ -1,0 +1,21 @@
+{
+  "name": "vscode-dark-insider",
+  "displayName": "VSCode-Dark-Insider",
+  "description": "Default Dark Modern Insider Green",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "VSCode Dark Insider",
+        "uiTheme": "vs-dark",
+        "path": "./themes/VSCode Dark Insider-color-theme.json"
+      }
+    ]
+  }
+}
